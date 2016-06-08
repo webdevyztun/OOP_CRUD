@@ -1,0 +1,689 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="2afd80e8-a3d8-4035-948e-dc068351c9dc" name="Default" comment="" />
+    <ignored path="OOP_CRUD.iws" />
+    <ignored path=".idea/workspace.xml" />
+    <ignored path=".idea/dataSources.local.xml" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager" flattened_view="true" show_ignored="false" />
+  <component name="CreatePatchCommitExecutor">
+    <option name="PATCH_PATH" value="" />
+  </component>
+  <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
+  <component name="FavoritesManager">
+    <favorites_list name="OOP_CRUD" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="create_product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/create_product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="5.4444447">
+              <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+              <folding>
+                <marker date="1465293406222" expanded="true" signature="1393:1410" placeholder="..." />
+                <marker date="1465293406222" expanded="true" signature="1500:1555" placeholder="..." />
+                <marker date="1465293406222" expanded="true" signature="1633:1689" placeholder="..." />
+                <marker date="1465293406222" expanded="true" signature="1768:1833" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name=".gitignore" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/.gitignore">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="0.0">
+              <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/objects/Product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-14.481482">
+              <caret line="145" column="25" selection-start-line="145" selection-start-column="25" selection-end-line="145" selection-end-column="25" />
+              <folding>
+                <marker date="1465382084380" expanded="true" signature="363:375" placeholder="INSERT INTO ${$this}... " />
+                <marker date="1465382084380" expanded="true" signature="363:398" placeholder="INSERT INTO ${$this-&gt;table_name}... " />
+                <marker date="1465382084380" expanded="true" signature="363:457" placeholder="INSERT INTO ${$this-&gt;table_name}... " />
+                <marker date="1465382084380" expanded="true" signature="363:458" placeholder="INSERT INTO ${$this-&gt;table_name}... " />
+                <marker date="1465382084380" expanded="true" signature="1469:1518" placeholder="SELECT id,na... ${$this}" />
+                <marker date="1465382084380" expanded="true" signature="1469:1536" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+                <marker date="1465382084380" expanded="true" signature="1469:1559" placeholder="SELECT id,na... ${$this-&gt;table_name} ." />
+                <marker date="1465382084380" expanded="true" signature="1469:1560" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+                <marker date="1465382084380" expanded="true" signature="1469:1600" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+                <marker date="1465382084380" expanded="true" signature="1469:1619" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+                <marker date="1465382084380" expanded="true" signature="1469:1620" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+                <marker date="1465382084380" expanded="true" signature="1469:1639" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+                <marker date="1465382084380" expanded="true" signature="1801:1815" placeholder="SELECT id FR... " />
+                <marker date="1465382084380" expanded="true" signature="1801:1816" placeholder="SELECT id FR... ${$this}" />
+                <marker date="1465382084380" expanded="true" signature="1801:1842" placeholder="SELECT id FR... ${$this-&gt;table_name}" />
+                <marker date="1465382084380" expanded="true" signature="2028:2074" placeholder="SELECT name,... " />
+                <marker date="1465382084380" expanded="true" signature="2028:2140" placeholder="SELECT name,... WHERE" />
+                <marker date="1465382084380" expanded="true" signature="2028:2141" placeholder="SELECT name,... " />
+                <marker date="1465382084380" expanded="true" signature="3660:3672" placeholder="DELETE FROM " />
+                <marker date="1465382084380" expanded="true" signature="3660:3710" placeholder="DELETE FROM " />
+                <marker date="1465382084380" expanded="true" signature="3660:3711" placeholder="DELETE FROM " />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/index.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-10.481482">
+              <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="paging_product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/paging_product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-8.555555">
+              <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="delete_product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/delete_product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-13.703704">
+              <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="update_product.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/update_product.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="-5.814815">
+              <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+              <folding>
+                <marker date="1465380306725" expanded="true" signature="1167:1404" placeholder="..." />
+                <marker date="1465380306725" expanded="true" signature="1714:1875" placeholder="..." />
+                <marker date="1465380306725" expanded="true" signature="1888:2060" placeholder="..." />
+                <marker date="1465380306725" expanded="true" signature="2073:3108" placeholder="..." />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header.php" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/header.php">
+          <provider selected="true" editor-type-id="text-editor">
+            <state vertical-scroll-proportion="4.962963">
+              <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/footer.php" />
+        <option value="$PROJECT_DIR$/header.php" />
+        <option value="$PROJECT_DIR$/config/database.php" />
+        <option value="$PROJECT_DIR$/create_product.php" />
+        <option value="$PROJECT_DIR$/objects/Category.php" />
+        <option value="$PROJECT_DIR$/paging_product.php" />
+        <option value="$PROJECT_DIR$/update_record.php" />
+        <option value="$PROJECT_DIR$/update_product.php" />
+        <option value="$PROJECT_DIR$/objects/Product.php" />
+        <option value="$PROJECT_DIR$/delete_product.php" />
+        <option value="$PROJECT_DIR$/index.php" />
+        <option value="$PROJECT_DIR$/.gitignore" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" />
+  <component name="JsBuildToolPackageJson" detection-done="true" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+  </component>
+  <component name="PhpServers">
+    <servers />
+  </component>
+  <component name="PhpWorkspaceProjectConfiguration" backward_compatibility_performed="true" interpreter_name="PHP 5.3" />
+  <component name="ProjectFrameBounds">
+    <option name="x" value="-8" />
+    <option name="y" value="-8" />
+    <option name="width" value="1376" />
+    <option name="height" value="744" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="false">
+    <OptionsSetting value="true" id="Add" />
+    <OptionsSetting value="true" id="Remove" />
+    <OptionsSetting value="true" id="Checkout" />
+    <OptionsSetting value="true" id="Update" />
+    <OptionsSetting value="true" id="Status" />
+    <OptionsSetting value="true" id="Edit" />
+    <ConfirmationsSetting value="0" id="Add" />
+    <ConfirmationsSetting value="0" id="Remove" />
+  </component>
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOP_CRUD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOP_CRUD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOP_CRUD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOP_CRUD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOP_CRUD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="objects" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOP_CRUD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOP_CRUD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="config" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+          <PATH>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOP_CRUD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.ProjectViewProjectNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="OOP_CRUD" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+            <PATH_ELEMENT>
+              <option name="myItemId" value="bootstrap" />
+              <option name="myItemType" value="com.intellij.ide.projectView.impl.nodes.PsiDirectoryNode" />
+            </PATH_ELEMENT>
+          </PATH>
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="Scratches" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="settings.editor.selected.configurable" value="reference.webide.settings.project.settings.php" />
+    <property name="settings.editor.splitter.proportion" value="0.2" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../admin" />
+  </component>
+  <component name="RunManager">
+    <configuration default="true" type="JavascriptDebugType" factoryName="JavaScript Debug">
+      <method />
+    </configuration>
+    <configuration default="true" type="PHPUnitRunConfigurationType" factoryName="PHPUnit">
+      <TestRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpBehatConfigurationType" factoryName="Behat">
+      <BehatRunner />
+      <method />
+    </configuration>
+    <configuration default="true" type="PhpLocalRunConfigurationType" factoryName="PHP Console">
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.gulp" factoryName="Gulp.js">
+      <node-options />
+      <gulpfile />
+      <tasks />
+      <arguments />
+      <envs />
+      <method />
+    </configuration>
+    <configuration default="true" type="js.build_tools.npm" factoryName="npm">
+      <command value="run-script" />
+      <scripts />
+      <envs />
+      <method />
+    </configuration>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false" />
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="2afd80e8-a3d8-4035-948e-dc068351c9dc" name="Default" comment="" />
+      <created>1465277152409</created>
+      <option name="number" value="Default" />
+      <updated>1465277152409</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1376" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.16985294" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="PHP-CGI Server" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="Vcs.Log.UiProperties">
+    <option name="RECENTLY_FILTERED_USER_GROUPS">
+      <collection />
+    </option>
+    <option name="RECENTLY_FILTERED_BRANCH_GROUPS">
+      <collection />
+    </option>
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/create_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="17" column="36" selection-start-line="17" selection-start-column="36" selection-end-line="17" selection-end-column="36" />
+          <folding>
+            <marker date="1465293406222" expanded="true" signature="1393:1410" placeholder="..." />
+            <marker date="1465293406222" expanded="true" signature="1500:1555" placeholder="..." />
+            <marker date="1465293406222" expanded="true" signature="1633:1689" placeholder="..." />
+            <marker date="1465293406222" expanded="true" signature="1768:1833" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
+          <folding>
+            <marker date="1465382084380" expanded="true" signature="363:375" placeholder="INSERT INTO ${$this}... " />
+            <marker date="1465382084380" expanded="true" signature="363:398" placeholder="INSERT INTO ${$this-&gt;table_name}... " />
+            <marker date="1465382084380" expanded="true" signature="363:457" placeholder="INSERT INTO ${$this-&gt;table_name}... " />
+            <marker date="1465382084380" expanded="true" signature="363:458" placeholder="INSERT INTO ${$this-&gt;table_name}... " />
+            <marker date="1465382084380" expanded="true" signature="1469:1518" placeholder="SELECT id,na... ${$this}" />
+            <marker date="1465382084380" expanded="true" signature="1469:1536" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="1469:1559" placeholder="SELECT id,na... ${$this-&gt;table_name} ." />
+            <marker date="1465382084380" expanded="true" signature="1469:1560" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="1469:1600" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="1469:1619" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="1469:1620" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="1469:1639" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="1801:1815" placeholder="SELECT id FR... " />
+            <marker date="1465382084380" expanded="true" signature="1801:1816" placeholder="SELECT id FR... ${$this}" />
+            <marker date="1465382084380" expanded="true" signature="1801:1842" placeholder="SELECT id FR... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="2028:2074" placeholder="SELECT name,... " />
+            <marker date="1465382084380" expanded="true" signature="2028:2140" placeholder="SELECT name,... WHERE" />
+            <marker date="1465382084380" expanded="true" signature="2028:2141" placeholder="SELECT name,... " />
+            <marker date="1465382084380" expanded="true" signature="3660:3672" placeholder="DELETE FROM " />
+            <marker date="1465382084380" expanded="true" signature="3660:3710" placeholder="DELETE FROM " />
+            <marker date="1465382084380" expanded="true" signature="3660:3711" placeholder="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="2" selection-start-line="69" selection-start-column="2" selection-end-line="69" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paging_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+          <folding>
+            <marker date="1465296020924" expanded="true" signature="205:210" placeholder="SELECT id,na... ${$this}" />
+            <marker date="1465296020924" expanded="true" signature="205:227" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465296020924" expanded="true" signature="205:265" placeholder="SELECT id, n... ${$this-&gt;table_name}" />
+            <marker date="1465296020924" expanded="true" signature="419:435" placeholder="SELECT name " />
+            <marker date="1465296020924" expanded="true" signature="419:481" placeholder="SELECT name WHERE" />
+            <marker date="1465296020924" expanded="true" signature="419:482" placeholder="SELECT name " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1465380306725" expanded="true" signature="1167:1404" placeholder="..." />
+            <marker date="1465380306725" expanded="true" signature="1714:1875" placeholder="..." />
+            <marker date="1465380306725" expanded="true" signature="1888:2060" placeholder="..." />
+            <marker date="1465380306725" expanded="true" signature="2073:3108" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="0" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <marker date="1465293406222" expanded="true" signature="1393:1410" placeholder="..." />
+            <marker date="1465293406222" expanded="true" signature="1500:1555" placeholder="..." />
+            <marker date="1465293406222" expanded="true" signature="1633:1689" placeholder="..." />
+            <marker date="1465293406222" expanded="true" signature="1768:1833" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="77" column="20" selection-start-line="77" selection-start-column="20" selection-end-line="77" selection-end-column="20" />
+          <folding>
+            <marker date="1465382084380" expanded="true" signature="363:375" placeholder="INSERT INTO ${$this}... " />
+            <marker date="1465382084380" expanded="true" signature="363:398" placeholder="INSERT INTO ${$this-&gt;table_name}... " />
+            <marker date="1465382084380" expanded="true" signature="363:457" placeholder="INSERT INTO ${$this-&gt;table_name}... " />
+            <marker date="1465382084380" expanded="true" signature="363:458" placeholder="INSERT INTO ${$this-&gt;table_name}... " />
+            <marker date="1465382084380" expanded="true" signature="1469:1518" placeholder="SELECT id,na... ${$this}" />
+            <marker date="1465382084380" expanded="true" signature="1469:1536" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="1469:1559" placeholder="SELECT id,na... ${$this-&gt;table_name} ." />
+            <marker date="1465382084380" expanded="true" signature="1469:1560" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="1469:1600" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="1469:1619" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="1469:1620" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="1469:1639" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="1801:1815" placeholder="SELECT id FR... " />
+            <marker date="1465382084380" expanded="true" signature="1801:1816" placeholder="SELECT id FR... ${$this}" />
+            <marker date="1465382084380" expanded="true" signature="1801:1842" placeholder="SELECT id FR... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="2028:2074" placeholder="SELECT name,... " />
+            <marker date="1465382084380" expanded="true" signature="2028:2140" placeholder="SELECT name,... WHERE" />
+            <marker date="1465382084380" expanded="true" signature="2028:2141" placeholder="SELECT name,... " />
+            <marker date="1465382084380" expanded="true" signature="3660:3672" placeholder="DELETE FROM " />
+            <marker date="1465382084380" expanded="true" signature="3660:3710" placeholder="DELETE FROM " />
+            <marker date="1465382084380" expanded="true" signature="3660:3711" placeholder="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="69" column="2" selection-start-line="69" selection-start-column="2" selection-end-line="69" selection-end-column="2" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paging_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="39" column="25" selection-start-line="39" selection-start-column="25" selection-end-line="39" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+          <folding>
+            <marker date="1465296020924" expanded="true" signature="205:210" placeholder="SELECT id,na... ${$this}" />
+            <marker date="1465296020924" expanded="true" signature="205:227" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465296020924" expanded="true" signature="205:265" placeholder="SELECT id, n... ${$this-&gt;table_name}" />
+            <marker date="1465296020924" expanded="true" signature="419:435" placeholder="SELECT name " />
+            <marker date="1465296020924" expanded="true" signature="419:481" placeholder="SELECT name WHERE" />
+            <marker date="1465296020924" expanded="true" signature="419:482" placeholder="SELECT name " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config/database.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="14" column="69" selection-start-line="14" selection-start-column="69" selection-end-line="14" selection-end-column="69" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects/Category.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="32" column="35" selection-start-line="32" selection-start-column="35" selection-end-line="32" selection-end-column="35" />
+          <folding>
+            <marker date="1465296020924" expanded="true" signature="205:210" placeholder="SELECT id,na... ${$this}" />
+            <marker date="1465296020924" expanded="true" signature="205:227" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465296020924" expanded="true" signature="205:265" placeholder="SELECT id, n... ${$this-&gt;table_name}" />
+            <marker date="1465296020924" expanded="true" signature="419:435" placeholder="SELECT name " />
+            <marker date="1465296020924" expanded="true" signature="419:481" placeholder="SELECT name WHERE" />
+            <marker date="1465296020924" expanded="true" signature="419:482" placeholder="SELECT name " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/footer.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="3" column="7" selection-start-line="3" selection-start-column="7" selection-end-line="3" selection-end-column="7" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/header.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="4.962963">
+          <caret line="7" column="17" selection-start-line="7" selection-start-column="17" selection-end-line="7" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/update_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-5.814815">
+          <caret line="38" column="9" selection-start-line="38" selection-start-column="9" selection-end-line="38" selection-end-column="9" />
+          <folding>
+            <marker date="1465380306725" expanded="true" signature="1167:1404" placeholder="..." />
+            <marker date="1465380306725" expanded="true" signature="1714:1875" placeholder="..." />
+            <marker date="1465380306725" expanded="true" signature="1888:2060" placeholder="..." />
+            <marker date="1465380306725" expanded="true" signature="2073:3108" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/delete_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-13.703704">
+          <caret line="19" column="44" selection-start-line="19" selection-start-column="44" selection-end-line="19" selection-end-column="44" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/paging_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-8.555555">
+          <caret line="11" column="5" selection-start-line="11" selection-start-column="5" selection-end-line="11" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-10.481482">
+          <caret line="37" column="25" selection-start-line="37" selection-start-column="25" selection-end-line="37" selection-end-column="25" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/objects/Product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="-14.481482">
+          <caret line="145" column="25" selection-start-line="145" selection-start-column="25" selection-end-line="145" selection-end-column="25" />
+          <folding>
+            <marker date="1465382084380" expanded="true" signature="363:375" placeholder="INSERT INTO ${$this}... " />
+            <marker date="1465382084380" expanded="true" signature="363:398" placeholder="INSERT INTO ${$this-&gt;table_name}... " />
+            <marker date="1465382084380" expanded="true" signature="363:457" placeholder="INSERT INTO ${$this-&gt;table_name}... " />
+            <marker date="1465382084380" expanded="true" signature="363:458" placeholder="INSERT INTO ${$this-&gt;table_name}... " />
+            <marker date="1465382084380" expanded="true" signature="1469:1518" placeholder="SELECT id,na... ${$this}" />
+            <marker date="1465382084380" expanded="true" signature="1469:1536" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="1469:1559" placeholder="SELECT id,na... ${$this-&gt;table_name} ." />
+            <marker date="1465382084380" expanded="true" signature="1469:1560" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="1469:1600" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="1469:1619" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="1469:1620" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="1469:1639" placeholder="SELECT id,na... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="1801:1815" placeholder="SELECT id FR... " />
+            <marker date="1465382084380" expanded="true" signature="1801:1816" placeholder="SELECT id FR... ${$this}" />
+            <marker date="1465382084380" expanded="true" signature="1801:1842" placeholder="SELECT id FR... ${$this-&gt;table_name}" />
+            <marker date="1465382084380" expanded="true" signature="2028:2074" placeholder="SELECT name,... " />
+            <marker date="1465382084380" expanded="true" signature="2028:2140" placeholder="SELECT name,... WHERE" />
+            <marker date="1465382084380" expanded="true" signature="2028:2141" placeholder="SELECT name,... " />
+            <marker date="1465382084380" expanded="true" signature="3660:3672" placeholder="DELETE FROM " />
+            <marker date="1465382084380" expanded="true" signature="3660:3710" placeholder="DELETE FROM " />
+            <marker date="1465382084380" expanded="true" signature="3660:3711" placeholder="DELETE FROM " />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_product.php">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="5.4444447">
+          <caret line="8" column="24" selection-start-line="8" selection-start-column="24" selection-end-line="8" selection-end-column="24" />
+          <folding>
+            <marker date="1465293406222" expanded="true" signature="1393:1410" placeholder="..." />
+            <marker date="1465293406222" expanded="true" signature="1500:1555" placeholder="..." />
+            <marker date="1465293406222" expanded="true" signature="1633:1689" placeholder="..." />
+            <marker date="1465293406222" expanded="true" signature="1768:1833" placeholder="..." />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.gitignore">
+      <provider selected="true" editor-type-id="text-editor">
+        <state vertical-scroll-proportion="0.0">
+          <caret line="0" column="5" selection-start-line="0" selection-start-column="5" selection-end-line="0" selection-end-column="5" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+  </component>
+</project>
